@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="many-to-many-relationship" />
+        <module name="one-to-one-relationship" />
+        <module name="single-entity" />
+        <module name="one-to-many-relationship" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="many-to-many-relationship" target="11" />
+      <module name="one-to-many-relationship" target="11" />
+      <module name="one-to-one-relationship" target="11" />
+      <module name="single-entity" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

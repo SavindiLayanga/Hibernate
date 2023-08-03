@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hibernate-ORM-Assignment-I.iml" filepath="$PROJECT_DIR$/.idea/Hibernate-ORM-Assignment-I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part 2/many-to-many-relationship/many-to-many-relationship.iml" filepath="$PROJECT_DIR$/part 2/many-to-many-relationship/many-to-many-relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part 2/one-to-many-relationship/one-to-many-relationship.iml" filepath="$PROJECT_DIR$/part 2/one-to-many-relationship/one-to-many-relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part 2/one-to-one-relationship/one-to-one-relationship.iml" filepath="$PROJECT_DIR$/part 2/one-to-one-relationship/one-to-one-relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part 1/single-entity/single-entity.iml" filepath="$PROJECT_DIR$/part 1/single-entity/single-entity.iml" />
+    </modules>
+  </component>
+</project>

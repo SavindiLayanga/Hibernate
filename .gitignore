@@ -1,0 +1,5 @@
+# Project exclude paths
+/part 1/single-entity/target/
+/part 2/many-to-many-relationship/target/
+/part 2/one-to-many-relationship/target/
+/part 2/one-to-one-relationship/target/
